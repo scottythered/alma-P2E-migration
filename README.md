@@ -1,6 +1,7 @@
 # Alma P2E Migration Notebook
 
 Click the badge below to access the Binder version:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scottythered/alma-P2E-migration/master)
 
 ## TL:DR
