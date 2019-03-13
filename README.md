@@ -1,7 +1,10 @@
 # Alma P2E Migration Notebook
 
-## TL:DR
+Click the badge below to access the Binder version:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scottythered/alma-P2E-migration/master)
 
+## TL:DR
+Pandas + Fuzzy Wuzzy in a Jupyter notebook to match data between two disparate sources of bibliographic library data.
 
 ## Background
 The P2E, or Physical to Electronic, conversion process is a small but important migration process from one library service platform to the Ex Libris Alma platform. "Physical to Electronic" refers to the legacy of MARC records as describers of physical items. During migration, Ex Libris converts MARC records coded as electronic resources into system-designated electronic resource Alma records. This process is handy if your library manages all electronic resources via your bibliographic database, but what about libraries that use, say, external content managers?
